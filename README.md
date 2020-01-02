@@ -12,3 +12,8 @@ Sample website with plenty of files for demos
 How to deploy... And stuff, ya know :)
 
 ## How to contribute
+
+
+### Copyright
+
+2020, M. Meciar
