@@ -13,6 +13,7 @@ How to deploy... And stuff, ya know :)
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Request for review
 
 ### Copyright
 
