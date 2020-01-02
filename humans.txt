@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Martin Meciar   mato.meciar@gmail.com   @MatoMeciar
 
 # THANKS
 
